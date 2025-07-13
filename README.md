@@ -9,6 +9,21 @@
 **Aigile** is an advanced, AI-powered platform designed to automate and enhance key activities within the Scrum framework.  
 Developed as a graduation project at the Faculty of Engineering, Cairo University, this system integrates directly with **Jira** to streamline workflows, reduce manual effort, and introduce **data-driven intelligence** into agile project management.
 
+## 📚 Table of Contents
+
+- [🚀 About the Project](#-about-the-project)
+- [✨ Key Features & Modules](#-key-features--modules)
+  - [1. Backlog & Acceptance Criteria Generation](#1-backlog--acceptance-criteria-generation)
+  - [2. Intelligent Story Point Estimation](#2-intelligent-story-point-estimation)
+  - [3. Adaptive Task Assignment](#3-adaptive-task-assignment)
+  - [4. Sprint Review Summarization](#4-sprint-review-summarization)
+- [🏛️ System Architecture](#️-system-architecture)
+- [🛠️ Technology Stack](#️-technology-stack)
+- [🎬 Demo](#-demo)
+- [📄 Research & Contribution](#-research--contribution)
+- [👥 Team](#-team)
+- [🙏 Acknowledgments](#-acknowledgments)
+
 ## 🚀 About the Project
 
 The Agile methodology, while effective, relies on manual, time-consuming tasks like writing user stories, estimating effort, assigning tasks, and documenting meetings. These processes are often subjective and prone to human bias, leading to inefficiencies and inaccurate planning.
