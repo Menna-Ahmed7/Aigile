@@ -1,0 +1,3 @@
+[submodule "Module1-Backlog-Generation"]
+	path = Module1-Backlog-Generation
+	url = https://github.com/Aigile-org/Module1-Backlog-Generation
