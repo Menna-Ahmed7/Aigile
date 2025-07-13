@@ -1,3 +1,15 @@
 [submodule "Module1-Backlog-Generation"]
 	path = Module1-Backlog-Generation
 	url = https://github.com/Aigile-org/Module1-Backlog-Generation
+[submodule "Module-2-Story-Point-Estimation"]
+	path = Module-2-Story-Point-Estimation
+	url = https://github.com/Aigile-org/Module-2-Story-Point-Estimation
+[submodule "Module-3-Task-Assignment-Part1"]
+	path = Module-3-Task-Assignment-Part1
+	url = https://github.com/Aigile-org/Module-3-Task-Assignment-Part1
+[submodule "Module-3-Task-Assignment-Part2-Online-Learning-"]
+	path = Module-3-Task-Assignment-Part2-Online-Learning-
+	url = https://github.com/Aigile-org/Module-3-Task-Assignment-Part2-Online-Learning-
+[submodule "Module-4-Summarization"]
+	path = Module-4-Summarization
+	url = https://github.com/Aigile-org/Module-4-Summarization
