@@ -20,7 +20,7 @@ Developed as a graduation project at the Faculty of Engineering, Cairo Universit
 - [🏛️ System Architecture](#️-system-architecture)
 - [🛠️ Technology Stack](#️-technology-stack)
 - [🎬 Demo](#-demo)
-- [Standalone GUI Applications](#️-standalone-gui-applications)
+- [🖥️ Standalone GUI Applications](#️-standalone-gui-applications)
 - [📄 Research & Contribution](#-research--contribution)
 - [👥 Team](#-team)
 - [🙏 Acknowledgments](#-acknowledgments)
