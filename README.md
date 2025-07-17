@@ -145,7 +145,8 @@ A key innovation of this project is the development of a novel incremental learn
 A research paper based on this work has been submitted for publication:
 
 **"An Incremental Learning Approach for Realistic Story Point Prediction in Agile Frameworks"**
-📄 Read the full research paper here: [An Incremental Learning Approach for Realistic Story Point Prediction in Agile Frameworks.pdf](./An Incremental Learning Approach for Realistic Story Point Prediction in Agile Frameworks.pdf)
+
+📄 Read the full research paper here: [An Incremental Learning Approach for Realistic Story Point Prediction in Agile Frameworks.pdf](./An%20Incremental%20Learning%20Approach%20for%20Realistic%20Story%20Point%20Prediction%20in%20Agile%20Frameworks.pdf)
 
 This paper details the model's architecture, experimental setup, and results, demonstrating its superior performance and efficiency compared to traditional static models.
 
