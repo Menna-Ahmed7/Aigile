@@ -98,6 +98,7 @@ This module provides automated summaries of sprint review meeting transcripts, e
 - **Dual Summarization Approach**:
   - **Extractive Summary**: Uses an enhanced TF-IDF and TextRank approach to pull the most critical sentences verbatim. The model gives extra weight to sentences containing agile keywords (e.g., "completed," "blocked") and those spoken by non-lead developers to capture the team's voice.
   - **Abstractive Summary**: Uses a fine-tuned BART model (trained on the SAMSum dialogue dataset) to generate a fluent, human-like narrative summary that synthesizes the key points of the conversation.
+  - **Automated Delivery**: The standalone GUI application for this module allows the generated summary to be emailed directly to stakeholders.
 
 ## 🏛️ System Architecture
 
