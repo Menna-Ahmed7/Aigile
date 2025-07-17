@@ -20,6 +20,7 @@ Developed as a graduation project at the Faculty of Engineering, Cairo Universit
 - [🏛️ System Architecture](#️-system-architecture)
 - [🛠️ Technology Stack](#️-technology-stack)
 - [🎬 Demo](#-demo)
+- [Standalone GUI Applications](#️-standalone-gui-applications)
 - [📄 Research & Contribution](#-research--contribution)
 - [👥 Team](#-team)
 - [🙏 Acknowledgments](#-acknowledgments)
@@ -120,9 +121,22 @@ Aigile is built on a distributed, microservices-inspired architecture designed f
 
 ## 🎬 Demo
 
-[This is where you can embed a link to your project demo video. You can upload it to YouTube or another video hosting service.]
+**[Link to Demo Video](https://youtu.be/lYM8siTEtbw)**
 
-**[Link to Demo Video Here]**
+## 🖥️ Standalone GUI Applications
+
+In addition to the integrated Jira plugins shown in the demo, Aigile includes two local GUI applications.
+
+#### 📌 Task Assignment Initial Training
+
+This app trains the initial task assignment model from a project's historical Jira data before online learning begins.
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/398001cd-cb07-40d2-893f-fca0b1c1af72" />
+
+
+#### 📝 Sprint Review Summarizer
+
+This app provides an abstract summary of sprint review meeting transcripts.
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a4d3d6b4-e3ba-453e-95d0-49bb49ebac31" />
 
 ## 📄 Research & Contribution
 
